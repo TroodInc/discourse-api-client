@@ -1,5 +1,5 @@
 {
-  "name": "@openclaw/discourse-api-client",
+  "name": "@contentengine/discourse-api-client",
   "version": "0.1.0",
   "description": "Lightweight Discourse API client for automation pipelines",
   "type": "module",

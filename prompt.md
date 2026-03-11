@@ -1,4 +1,4 @@
-Create a Python client for the Discourse REST API.
+Create a Node.js client for the Discourse REST API.
 
 Support:
 
